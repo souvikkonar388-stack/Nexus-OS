@@ -1,9 +1,9 @@
 # Customer Revenue Intelligence Platform
 
 An enterprise-style analytics and data engineering platform designed to centralize fragmented customer, marketing, and revenue data into a unified intelligence system.
-https://nexus-os-33ot.arcada.app
----
 
+---
+https://nexus-os-33ot.arcada.app
 ## Business Problem
 
 Organizations often struggle with:
