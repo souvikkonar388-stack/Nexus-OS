@@ -75,4 +75,5 @@ This project demonstrates how a modern medallion architecture can solve these pr
 
 ## Author
 
-Your Name
+Souvik Konar
+
