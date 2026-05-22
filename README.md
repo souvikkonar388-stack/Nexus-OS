@@ -54,7 +54,13 @@ This project demonstrates how a modern medallion architecture can solve these pr
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="1408" height="768" alt="designarena_image_g4qnicnb" src="https://github.com/user-attachments/assets/bdb1aea4-5c69-4477-b397-2e277404a8e4" />
+<img width="1402" height="814" alt="image" src="https://github.com/user-attachments/assets/c4dc3ed2-5bcf-479e-8e66-9bf8dcb89bbc" />
+<img width="1436" height="797" alt="image" src="https://github.com/user-attachments/assets/fd9bd0e6-b12a-4675-9195-8792cd5b9d13" />
+<img width="1887" height="848" alt="image" src="https://github.com/user-attachments/assets/8dbb0742-9230-485e-82dc-b133cee154c8" />
+
+
+
 
 ---
 
